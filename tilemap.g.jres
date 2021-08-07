@@ -1,0 +1,106 @@
+{
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "tile5": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile3"
+    },
+    "tile1": {
+        "data": "hwQQABAAAAC7u7u7u7u7u7u7uxu7u7u7u7u7G7u7u7u7u/v/d7u7u7u7W1V3u7u7u7v79Xe7u7u7u1tfd7u7u7u7+/93u7u7u7tbVXe7u7u7u1tVd7u7u7u7W1V3u7u7u7tbVXe7u7u7u7sbu7u7u7u7uxu7u7u7u7u7u7u7u7u7u7u7u7u7uw==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile"
+    },
+    "tile3": {
+        "data": "hwQQABAAAAC7u7u7u7G7u7u7u7u7sbu7u7u7u7uxu7u7u1tVVVW7u7u7VVVVVbW7u1tVVVVVVbu7W1X1VV9Vu7tbVfVf9VW7EVtVVVX1Vbu7W1VVVfVVu7tbVfVf9VW7u1tV9VVfVbu7u1VVVVW1u7u7W1VVVbu7u7u7u7u7u7u7u7u7u7u7uw==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "happy coins"
+    },
+    "tile4": {
+        "data": "hwQQABAAAAC7u7u7u7u7u9vd3d3d3d29KyIiIiLd3b0rIiIiItLdvSsiIiJCVN29KyIiIkRU1b0rIiIiRFXVvSsiIiJEVdW9KyIiIkRV1b3bIiIiRFXVvSsiIiJCVN29KyIiIiLS3b3bIiIi0t3dvdvd3d3d3d29293d3d3d3b27u7u7u7u7uw==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "fire charger"
+    },
+    "tile2": {
+        "data": "hwQQABAAAADd3d3d3d3d3d3d3d3d3d3d3d0iIiLS3d3dLSIiIiLd3d0iLyIiL9Ld3SL///Ii0t3dIvL/8iLS3d0iIi/yItLd3SLy//Ii0t3dIvL/Ii/S3d0i/yIiItLd3S0vIiIi3d3d3SIiItLd3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3Q==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "rage coins"
+    },
+    "tile6": {
+        "data": "hwQQABAAAAARERERER8RERH/ERER/x8REfH/HxERHxEREf8REREfERHxHxER8R8RERH/HxH/HxER8R8fEf8fERHxH/ERHxERERH//xEREREREf8REREREREREf8R8f8RERH/8RERERERERH/ERERERERERER8f8fERERERH//xEREREREf8fEQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile0"
+    },
+    "level1": {
+        "id": "level1",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDE1MDMwMzAxMDEwMTAxMDEwMzAzMDMwMzAzMWYxZTBjMTQwNDAxMDEyNDA2MDYwNzAxMDEyMjAxMDEwMTAxMDIxNDA0MGQxYTBlMWExMDA0MDEwMTA0MDEwMTAxMDEwMjE0MDQxMTAxMGUwMTE0MDUwNjA2MDgwNjA2MDEwMTAyMTQwNDExMDEwMTAxMTQwZDBlMTAwNDE1MTMxMzEzMjExNDA0MTEwMTAxMTUwZjExMDExNDA0MTQwMTAxMDExMTE0MDQxMTAxMTUwZjA0MTIxMzBmMDQxNDAxMDEwMTExMTQwNDExMDExNDA5MDgwNjA2MDYwNDE0MDEwMTAxMTExNDA0MTIxMzBmMDQwZDBlMGUxMDA0MTQwMTAxMDExMTE0MDUwNjA3MDEwNDExMDEwMTE0MDQxNDAxMDEwMTExMTQwOTA2MDgwNjBhMTEwMTAxMTQwNDE0MDEwMTAxMTExNDA0MTYxODE2MDQxMjEzMTMwZjA0MWIwZTBlMGUyMDE0MDQxNzE2MTYwNTA2MDYwNjA2MjMxZDFkMWQxZDFkMTQwNDE2MTkxNjA5MDYwNzFkMWQxZDFkMWMxYzFjMWQxNDA1MDYwNjA2MGEwYjA1MDcxYzFjMWMxYzFjMWMxZDFiMGUwZTBlMGUwNTA2MDYyMzFkMWQxZDFkMWQxZDFkMjIyMjIyMjIyMjIyMDIwMDAyMjIwMDAwMjIyMDIyMjIwMjIyMjIwMjIyMjAyMjIyMDIyMjIyMDIwMDAwMjAyMjAyMjIyMjIyMjIyMDIyMjIwMjIyMjIyMjIyMjAyMjIyMDIyMjIyMjAyMjIwMjIyMjAyMjIwMjAwMDAyMDIyMjIwMjIyMDIyMjIyMjAyMjIyMDIwMDAyMDIyMDIwMjIyMjAyMDAwMDAyMjAyMDIyMjIwMjIyMDIyMjIyMjAyMjIyMDIyMjAyMDAwMDIwMjIyMjAyMDIwMjAwMjIyMjAwMjAwMjAwMDAwMDAwMDAwMDIwMjIyMjAyMDAyMDIyMjIyMg==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.castle.tilePath5",
+            "sprites.castle.tilePath6",
+            "sprites.castle.tilePath2",
+            "sprites.vehicle.roadVertical",
+            "sprites.vehicle.roadTurn3",
+            "sprites.vehicle.roadHorizontal",
+            "sprites.vehicle.roadTurn2",
+            "sprites.vehicle.roadIntersection1",
+            "sprites.vehicle.roadTurn1",
+            "sprites.vehicle.roadIntersection4",
+            "sprites.dungeon.stairNorth",
+            "sprites.builtin.forestTiles3",
+            "sprites.dungeon.greenOuterNorthWest",
+            "sprites.dungeon.greenOuterNorth0",
+            "sprites.dungeon.greenOuterSouthWest",
+            "sprites.dungeon.greenOuterNorthEast",
+            "sprites.dungeon.greenOuterWest1",
+            "sprites.dungeon.greenOuterSouthEast",
+            "sprites.dungeon.greenOuterSouth0",
+            "sprites.dungeon.greenOuterEast0",
+            "sprites.dungeon.greenInnerNorthWest",
+            "sprites.dungeon.floorDark0",
+            "sprites.dungeon.floorDark1",
+            "sprites.dungeon.floorDark5",
+            "sprites.dungeon.doorClosedNorth",
+            "sprites.dungeon.greenOuterNorth1",
+            "sprites.dungeon.greenInnerSouthWest",
+            "sprites.dungeon.hazardWater",
+            "sprites.builtin.oceanDepths0",
+            "sprites.builtin.forestTiles2",
+            "sprites.builtin.forestTiles1",
+            "sprites.dungeon.greenInnerSouthEast",
+            "sprites.dungeon.greenInnerNorthEast",
+            "sprites.dungeon.stairLadder",
+            "myTiles.tile3",
+            "myTiles.tile1"
+        ],
+        "displayName": "level1"
+    },
+    "level2": {
+        "id": "level2",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDAyMDIwMjAyMDIwMjAyMDIwMjAzMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDMwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDMwMzAzMDMwMzAyMDIwMjAyMDIwMjAyMDEwMTAxMDEwMzAxMDEwMTAxMDEwMTAxMDIwMjAyMDIwMTAzMDMwMzAzMDMwMzAzMDMwMzAxMDEwMjAyMDIwMTAxMDMwMzAzMDMwMzAzMDMwMzAzMDMwMTAxMDIwMjAxMDMwMzAzMDMwMzAzMDMwMzAzMDMwMzAzMDEwMjAyMDEwMzAzMDMwMzAzMDMwMzAzMDMwMzAzMDMwMTAxMDIwMTAxMDMwMzAzMDMwMzAzMDMwMzAzMDMwMzAzMDEwMjAyMDEwMzAzMDMwMzAzMDQwMzAzMDMwMzAzMDMwMTAyMDIwMTAzMDMwMzAzMDMwMzAzMDMwMzAzMDMwMTAxMDIwMjAxMDMwMzAzMDMwMzAzMDMwMzAzMDMwMzAxMDIwMjAyMDEwMzAzMDMwMzAzMDMwMzAzMDMwMzAzMDEwMjAyMDIwMTAxMDMwMzAzMDMwMzAzMDMwMzAzMDEwMTAyMDIwMjAyMDEwMTAzMDMwMzAzMDMwMzAzMDMwMTAyMDIwMjAyMDIwMjAxMDEwMTAxMDEwMTAxMDEwMTAxMDIwMjAyMjIyMjIyMjIwMjIyMjIyMjIyMjIyMjIyMDIyMjIyMjIyMjIyMDIwMDAwMjIyMjIyMjIyMjAyMjIyMjIyMjIyMjIyMDAwMDAwMDAyMDIyMjIyMjAwMDAwMDAwMDAyMjIyMDIwMDAwMDAwMDAwMjAyMjAyMDAwMDAwMDAwMDIwMjIyMjAwMDAwMDAwMDAwMDIyMjIwMDAwMDAwMDAwMDAyMjIyMDAwMDAwMDAwMDIwMjIyMjAwMDAwMDAwMDAyMDIyMjIwMDAwMDAwMDAwMjAyMjIyMDIwMDAwMDAwMDIyMjIyMjIyMDAwMDAwMDAyMjIyMjIyMjIyMjIyMjIyMjIyMg==",
+        "tileset": [
+            "myTiles.transparency16",
+            "myTiles.tile4",
+            "sprites.dungeon.floorDark0",
+            "sprites.dungeon.floorLight2",
+            "sprites.dungeon.hazardHole"
+        ],
+        "displayName": "the lair"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
